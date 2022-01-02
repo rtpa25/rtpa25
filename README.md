@@ -7,7 +7,7 @@
 
 - 🔭 I’m actively looking for an internship [at a seed](or pres seed stage startup)
 
-- 👨‍💻 All of my projects are available at [https://rp-rtpa25.vercel.app/](https://rp-rtpa25.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rtpa.vercel.app/)
 
 - 💬 Ask me about **Next, Typescript, GraphQL, PostgreSQL**
 

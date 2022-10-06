@@ -11,6 +11,8 @@ Hey, I'm Ronit! 👋 I am a student, a full stack software developer and a start
 - React 👍
 - NextJS 🚀
 - TailwindCSS ♥️
+- ChakraUI ♥️
+- GraphQL 🙂
 - Redux-Toolkit 💪
 - Javascript 🙂
 - Express 😎

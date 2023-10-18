@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtpa25" alt="rtpa25" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/panda_ronit" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/panda_ronit?logo=twitter&style=for-the-badge" alt="https://twitter.com/panda_ronit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/panda_ronit" target="blank"><img src="https://img.shields.io/twitter/follow/panda_ronit?logo=twitter&style=for-the-badge" alt="https://twitter.com/panda_ronit" /></a> </p>
 
 - 📫 How to reach me **pandaronit25@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pandaronit25@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rtpa25/](https://www.linkedin.com/in/rtpa25/)
+- 📄 Know about my experiences [Website](https://www.rtpa.pro)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

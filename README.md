@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronit</h1>
-<h3 align="center">Full Stack software developer looking for opputunites</h3>
+<h3 align="center">Full stack hacker at [Dimension](https://dimension.dev)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtpa25" alt="rtpa25" /></a> </p>
 
